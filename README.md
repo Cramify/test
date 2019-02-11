@@ -1,6 +1,9 @@
 # test
 
 <<<<<<< HEAD
+I am changing the readme just because I can. Word. 
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 #Hello Everyone, this is a branch
 =======
@@ -9,3 +12,4 @@ I am changint the readme just because I can. Word.
 =======
 I am changing the readme just because I can. Word.
 >>>>>>> 7abfedfd6e98ac91144fd2c753b76302ed95f8af
+>>>>>>> master
